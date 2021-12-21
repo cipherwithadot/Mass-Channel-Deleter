@@ -23,7 +23,7 @@ def keep_alive():
 
 token = '' # put your token here
 client = commands.Bot(command_prefix = '!')
-status = cycle(['Made By 𝔖𝔬𝔠𝔦𝔞𝔩 ≯͒̅ ErenYeager#6969','!delete to delete channels'])
+status = cycle(['Totally made by me and not 𝔖𝔬𝔠𝔦𝔞𝔩 ≯͒̅ ErenYeager#6969','!delete to delete channels'])
 
 @client.event
 async def on_ready():
